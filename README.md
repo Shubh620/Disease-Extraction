@@ -27,3 +27,13 @@ https://medium.com/ml2vec/overview-of-conditional-random-fields-68a2a20fa541
 **Overview of Logistic Regression**
 
 https://towardsdatascience.com/logistic-regression-classifier-8583e0c3cf9
+
+**Introduction to Markov Chain**
+
+https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d
+
+http://aix1.uottawa.ca/~jkhoury/markov.htm
+
+**Hidden Markov Model**
+
+**Markov Chain Monte Carlo**
